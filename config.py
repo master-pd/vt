@@ -33,7 +33,7 @@ class Config:
     DEFAULT_VIEWS = 1000
     
     # ========== TELEGRAM BOT ==========
-    BOT_TOKEN = "7488701410:AAEyOD9mMw060j30sNkV-2ZEapMIIfaXa0A"  # Add your bot token here
+    BOT_TOKEN = " "  # Add your bot token here
     ADMIN_IDS = [6454347745]  # Add admin user IDs
     
     # ========== REQUEST SETTINGS ==========
