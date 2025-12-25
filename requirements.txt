@@ -1,0 +1,8 @@
+python-telegram-bot==20.6
+aiohttp==3.9.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+fake-useragent==1.4.0
+colorama==0.4.6
+APScheduler==3.10.4
+python-dotenv==1.0.0
