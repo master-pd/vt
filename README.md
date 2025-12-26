@@ -1,54 +1,76 @@
-# 🚀 VT VIEW TESTER - Complete Project
+# 🚀 VT BOT - TikTok View Bot Ultra Pro
 
-## 📋 PROJECT OVERVIEW
-**VT View Tester** is a comprehensive TikTok view testing and analytics system with both Terminal and Telegram Bot interfaces. This project includes 40+ fully functional files for a complete production-ready system.
+**Professional TikTok View Sending System**  
+*Version 4.0.0 | Author: MASTER (RANA) | Team: MAR PD*
 
-## 👨‍💻 AUTHOR
-**MASTER (RANA)**
+---
 
-## 👥 TEAM
-**MAR PD**
+## 📋 Table of Contents
+- [Features](#-features)
+- [System Requirements](#-system-requirements)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Configuration](#-configuration)
+- [Usage Guide](#-usage-guide)
+- [File Structure](#-file-structure)
+- [Safety & Warnings](#-safety--warnings)
+- [Troubleshooting](#-troubleshooting)
+- [FAQ](#-faq)
+- [Support](#-support)
+- [License](#-license)
 
+---
 
-## ✨ FEATURES
+## ✨ Features
 
 ### 🎯 Core Features
-- **Dual Interface**: Terminal & Telegram Bot
-- **View Testing**: Send 10-10,000 views per minute
-- **Real-time Monitoring**: Progress tracking
-- **Analytics**: Detailed performance analysis
-- **Reporting**: Daily, weekly, monthly reports
+- **Real View Sending** - Send actual views to TikTok videos
+- **Multi-Account Support** - Unlimited account management
+- **Proxy Rotation** - Protect your IP with multiple proxies
+- **Anti-Detection System** - Advanced bypass techniques
+- **Batch Processing** - Send 10-10,000 views per minute
+- **Real-time Statistics** - Live dashboard and analytics
 
 ### 🔧 Technical Features
-- **Modular Architecture**: 40+ organized files
-- **Database**: SQLite with JSON backup
-- **Error Handling**: Comprehensive error management
-- **Logging**: Multi-level logging system
-- **Scheduling**: Automated task scheduling
-- **Monitoring**: System health monitoring
+- **Professional Codebase** - 22+ files, 10,000+ lines of code
+- **No Hardcode** - Everything configurable
+- **Async/Await** - High performance with asyncio
+- **SQLite Database** - Secure data storage
+- **Logging System** - Detailed activity logs
+- **Error Handling** - Automatic recovery system
 
-### 💼 Business Features
-- **User Management**: Multi-user support
-- **Payment System**: Subscription plans
-- **Admin Panel**: Full administration
-- **Statistics**: Detailed analytics
-- **Export**: CSV, JSON, PDF reports
+### 🎨 User Interface
+- **Stylish Terminal UI** - ANSI colors and animations
+- **Progress Bars** - Real-time progress tracking
+- **Interactive Menus** - Easy navigation
+- **Dashboard** - System monitoring
+- **Banner System** - Professional ASCII banners
 
-## 🚀 INSTALLATION
+---
 
-### 1. Prerequisites
-- Python 3.8 or higher
-- pip package manager
+## 💻 System Requirements
 
-### 2. Clone and Setup
+### Minimum Requirements
+- **OS**: Windows 10/11, Linux, macOS, Termux
+- **Python**: 3.12 or higher
+- **RAM**: 2GB minimum (4GB recommended)
+- **Storage**: 500MB free space
+- **Internet**: Stable connection required
+
+### Recommended Requirements
+- **OS**: Linux/Windows Server
+- **Python**: 3.12+
+- **RAM**: 8GB or more
+- **CPU**: 4+ cores
+- **Storage**: 1GB SSD
+- **Proxies**: Multiple residential proxies
+
+---
+
+## 🚀 Installation
+
+### Method 1: Auto Setup (Recommended)
 ```bash
-# Clone the project
-git clone <repository-url>
-cd vt_view_tester
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Configure settings
-# Edit config.py with your settings
-# Add BOT_TOKEN for Telegram bot
+# Download or copy all files to a folder
+# Run the setup script
+python vt_setup.py
